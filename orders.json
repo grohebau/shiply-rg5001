@@ -1,0 +1,47 @@
+{
+  "S54838": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Thomas Kehl, Am Brink 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Peter Götz, Zehnstadel 5, 96528 Schalkau, Deutschland",
+    "price": "2.500 €",
+    "description": "Hersteller: Harley-Davidson<br>Typ: V-Rod Muscle<br>Fahrgestelnummer: 5HD1HPH179K804257<br>Erstzulassung: 06/2013<br>KM laut Vorbesitzer: 22.817 km<br>Leistung: 89 kW (121 PS)<br>Hubraum: 1247 cm³<br>Farbe: Schwarz<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Peter Götz<br>Zehnstadel 5<br>96528 Schalkau<br>Deutschland<br>Telefon: +49 1520 8343959",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "13.11.2025",
+    "deliveryDate": "19.11.2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
